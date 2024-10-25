@@ -1,4 +1,4 @@
-# 3D Modeling and Analysis in GIS - Project 4
+# 3D Modeling and Analysis in GIS
 
 ## Overview
 
